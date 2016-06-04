@@ -11,5 +11,5 @@ console.log("\n");
 console.log("One-word-per-line Haiku:");
 console.log(haiku.createHaiku([[5],[7],[5]],dictionary));
 console.log("Mixed-words-per-line Haiku:");
-console.log(haiku.createHaiku([[1,1,1,2],[1,1,2,2,2],[2,1,1,1]],dictionary));
+console.log(haiku.createHaiku([[1,1,1,2],[1,1,2,1,2],[2,1,1,1]],dictionary));
 
